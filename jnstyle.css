@@ -1,0 +1,21 @@
+h3{
+	font-family: 'lucida bright', sans-serif;
+	text-align: center;
+	background-color: thistle;
+	padding: 10px 13px;
+}
+
+table align="center"{
+	border-collapse: collapse;
+	width: 100px;
+}
+th,td{
+	border: 1px solid black;
+	padding: 8px;
+	text-align: center;
+	font-family: 'candara', sans-serif;
+}
+
+tr:nth-child(even){
+	background-color: lavender;
+}
